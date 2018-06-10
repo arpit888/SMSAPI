@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/arpit/Desktop/ArpitPlayTest/testapp/conf/routes,/home/arpit/Desktop/ArpitPlayTest/testapp/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/arpit/Desktop/ArpitPlayTest/testapp/conf/ehcache.xml,/home/arpit/Desktop/ArpitPlayTest/testapp/target/scala-2.12/classes/ehcache.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/arpit/Desktop/ArpitPlayTest/testapp/conf/logback.xml,/home/arpit/Desktop/ArpitPlayTest/testapp/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/arpit/Desktop/ArpitPlayTest/testapp/conf/application.conf,/home/arpit/Desktop/ArpitPlayTest/testapp/target/scala-2.12/classes/application.conf)[0m

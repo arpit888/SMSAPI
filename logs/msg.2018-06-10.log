@@ -1,0 +1,114 @@
+2018-06-10 11:30:08,256 getSms 941414141414 565656365646536 iloveyou
+2018-06-10 11:30:08,261 get cache null
+2018-06-10 11:30:29,051 getSms 941414141414 565656365646536 null
+2018-06-10 11:30:44,523 getSms 941414141414 null null
+2018-06-10 11:31:01,740 getSms 941414141414 6536 iloveyou
+2018-06-10 11:31:01,741 get cache null
+2018-06-10 11:31:07,801 getSms 941414141414 36 iloveyou
+2018-06-10 11:31:07,801 get cache null
+2018-06-10 11:56:04,654 getSms 941414141414 36 iloveyou
+2018-06-10 11:56:04,664 get cache null
+2018-06-10 11:56:16,843 getSms 941414141414 36 null
+2018-06-10 11:56:30,764 getSms 941414141414 null null
+2018-06-10 12:03:18,372 getSms 941414141414 565656365646536 iloveyou
+2018-06-10 12:03:18,377 getSms 0 0 
+2018-06-10 12:03:18,378 get cache null
+2018-06-10 12:03:51,610 getSms 941414141414 565656365646536 iloveyouSTOP\n
+2018-06-10 12:03:51,614 getSms 0 0 
+2018-06-10 12:03:51,638 get cache 941414141414
+2018-06-10 12:04:14,119 getSms 941414141414text=iloveyouSTOP\n null null
+2018-06-10 12:04:14,120 getSms 2 2 
+2018-06-10 12:04:38,044 getSms 941414141414 null iloveyouSTOP\n
+2018-06-10 12:04:38,045 getSms 1 1 
+2018-06-10 12:05:25,338 getSms 941414141414 1 iloveyou
+2018-06-10 12:05:25,338 getSms 0 0 
+2018-06-10 12:05:25,338 get cache null
+2018-06-10 12:08:12,156 getSms 941414141414 1 iloveyou
+2018-06-10 12:08:12,164 getSms 0 0 
+2018-06-10 12:08:12,166 get cache null
+2018-06-10 12:10:53,906 getSms 941414141414 1 iloveyou
+2018-06-10 12:10:53,915 ValidateInput check missing 3 3 
+2018-06-10 12:10:53,915 ValidateInput check validity 0 0 
+2018-06-10 12:10:53,915 getSms 0 0 
+2018-06-10 12:10:53,917 get cache null
+2018-06-10 12:13:29,462 getSms 941414141414 1 iloveyou
+2018-06-10 12:13:29,466 getSms before validate input 3 3 
+2018-06-10 12:13:29,469 ValidateInput check missing 3 3 
+2018-06-10 12:13:29,469 ValidateInput check validity 0 0 
+2018-06-10 12:13:29,470 getSms 0 0 
+2018-06-10 12:13:29,471 get cache null
+2018-06-10 12:21:23,084 getSms 941414141414 1 iloveyou
+2018-06-10 12:21:23,087 getSms before validate input 3 3 
+2018-06-10 12:21:23,089 ValidateInput check missing 3 3 
+2018-06-10 12:21:23,089 ValidateInput check validity 3 3 
+2018-06-10 12:21:23,089 getSms 1 1 
+2018-06-10 12:22:34,759 getSms 941414141414 1 null
+2018-06-10 12:22:34,762 getSms before validate input 3 3 
+2018-06-10 12:22:34,763 ValidateInput check missing 3 3 
+2018-06-10 12:22:34,763 ValidateInput check validity 1 1 
+2018-06-10 12:22:34,763 getSms 1 1 
+2018-06-10 12:22:42,280 getSms 941414141414 1 iloveyou
+2018-06-10 12:22:42,281 getSms before validate input 3 3 
+2018-06-10 12:22:42,281 ValidateInput check missing 3 3 
+2018-06-10 12:22:42,281 ValidateInput check validity 0 0 
+2018-06-10 12:22:42,281 getSms 0 0 
+2018-06-10 12:24:51,459 getSms 941414141414 1 iloveyou
+2018-06-10 12:24:51,463 getSms before validate input 3 3 
+2018-06-10 12:24:51,464 ValidateInput check missing 3 3 
+2018-06-10 12:24:51,465 ValidateInput check validity 0 0 
+2018-06-10 12:24:51,465 getSms 0 0 
+2018-06-10 12:24:51,466 get cache null
+2018-06-10 12:29:51,720 getSms 941414141414 1 iloveyou
+2018-06-10 12:29:51,724 ValidateInput check missing 3 3 
+2018-06-10 12:29:51,724 ValidateInput check validity 0 0 
+2018-06-10 12:29:51,726 get cache null
+2018-06-10 12:32:50,376 getSms 941414141414 1 iloveyou
+2018-06-10 12:32:50,380 invalid hash map size 0 
+2018-06-10 12:32:50,381 get cache null
+2018-06-10 12:33:46,907 getSms 941414141414 1 iloveyou
+2018-06-10 12:33:46,912 invalid hash map size 3 
+2018-06-10 12:33:53,228 getSms 914 1 iloveyou
+2018-06-10 12:33:53,228 invalid hash map size 3 
+2018-06-10 12:33:57,597 getSms 914 1 
+2018-06-10 12:33:57,597 invalid hash map size 3 
+2018-06-10 12:34:01,339 getSms 914 1 null
+2018-06-10 12:34:04,641 getSms 914 null null
+2018-06-10 12:34:08,208 getSms null null null
+2018-06-10 12:40:10,752 getSms null null null
+2018-06-10 12:40:26,840 getSms 941414141414 565656365646536 iloveyou
+2018-06-10 12:40:26,841 invalid hash map size 3 
+2018-06-10 12:40:26,842 get cache null
+2018-06-10 12:40:35,068 getSms 941414141414 565656365646536 iloveyouSTOP
+2018-06-10 12:40:35,070 invalid hash map size 3 
+2018-06-10 12:40:35,088 get cache 941414141414
+2018-06-10 12:40:42,987 outboundSms 941414141414 565656365646536 iloveyouSTOP
+2018-06-10 12:40:42,987 invalid hash map size 3 
+2018-06-10 12:40:42,987 get cache in outboundSms 941414141414
+2018-06-10 12:40:52,744 outboundSms 941414141414 565656365646536 null
+2018-06-10 12:40:52,745 get Count in outboundSms 2
+2018-06-10 12:40:57,086 outboundSms 941414141414 56 null
+2018-06-10 12:40:57,087 get Count in outboundSms 3
+2018-06-10 12:41:00,320 outboundSms 941414141414 null null
+2018-06-10 12:41:00,323 get Count in outboundSms 4
+2018-06-10 12:41:18,288 outboundSms 941414141414 56 iloveyouSTOP
+2018-06-10 12:41:18,289 get Count in outboundSms 5
+2018-06-10 12:41:18,289 invalid hash map size 3 
+2018-06-10 14:04:31,040 get Token from header null 
+2018-06-10 14:07:08,770 get Token from header null 
+2018-06-10 14:07:12,175 get Token from header null 
+2018-06-10 14:08:50,797 get Token from header null 
+2018-06-10 14:13:07,358 get Token from header null 
+2018-06-10 14:13:14,251 get Token from header null 
+2018-06-10 14:15:17,306 get Token from header 26832f45-2964-4dd6-ac11-8d7003e6cf9b 
+2018-06-10 14:15:17,309 getSms 941414141414 565656365646536 iloveyou
+2018-06-10 14:15:17,314 invalid hash map size 3 
+2018-06-10 14:15:17,315 get cache null
+2018-06-10 14:15:32,166 get Token from header 26832f45-2964-4dd6-ac11-8d7003ecf9b 
+2018-06-10 14:42:25,711 get Token from header ea574af1-c328-43e7-9e2a-22d466b7a029 
+2018-06-10 14:42:25,711 getSms 941414141414 565656365646536 iloveyouSTOP
+2018-06-10 14:42:25,711 invalid hash map size 3 
+2018-06-10 14:42:25,712 get cache 941414141414
+2018-06-10 14:42:34,359 get Token from header ea574af1-c328-43e7-9e2a-22d466b7a029 
+2018-06-10 14:42:34,359 getSms 941414141414 6 iloveyouSTOP
+2018-06-10 14:42:34,359 invalid hash map size 3 
+2018-06-10 14:49:55,937 get Token from header null 
